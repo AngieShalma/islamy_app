@@ -38,10 +38,10 @@ flutter_native_splash:
   # parameters from above. If the image_dark parameter is specified, color_dark or
   # background_image_dark must be specified.  color_dark and background_image_dark cannot both be
   # set.
-  #color_dark: "#042a49"
-  #background_image_dark: "assets/dark-background.png"
-  #image_dark: assets/splash-invert.png
-  #branding_dark: assets/dart_dark.png
+  #color_dark: #141a2e
+  background_image_dark: assets/images/bg_splash_dark.png
+  image_dark: assets/images/bg_splash_dark.png
+  branding_dark: assets/images/branding_splash_dark.png
 
   # From Android 12 onwards, the splash screen is handled differently than in previous versions.
   # Please visit https://developer.android.com/guide/topics/ui/splash-screen
